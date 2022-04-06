@@ -60,7 +60,7 @@ int main(int argc, char **argv)
 	}
 
 	/* 
-	 * P0: Not in either sub-group
+	 * P0: Not in either sub-group, send the first signal to process 1 and 2
 	 * */
 	if (world_rank == 0) {
 		signal = 1;
@@ -89,7 +89,12 @@ int main(int argc, char **argv)
 		if (world_size > 3) {
 			MPI_Send(&message, 1, MPI_INT, sub_rank + 1, 0, sub_comm);
 		}
-	} else {
+	}
+	/*
+	 * Other Process: Receive a message from other process in the sub group,
+	 * Then print out the message.
+	 * */
+	else {
 		MPI_Recv(&message, 1, MPI_INT, sub_rank - 1, 0, sub_comm, MPI_STATUS_IGNORE);
 		if(message == 255) {
 			printf("P%d: The pen is blue\n", world_rank);
@@ -98,6 +103,7 @@ int main(int argc, char **argv)
 		} else {
 			printf("P%d: I don't know\n", world_rank);
 		}
+		// If it is the last process, theres no need to tell the other process
 		if((sub_rank + 1) != sub_size) {
 			MPI_Send(&message, 1, MPI_INT, sub_rank + 1, 0, sub_comm);
 		}
