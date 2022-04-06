@@ -1,0 +1,359 @@
+-------------------------------
+|  Execution mode 0  |
+-------------------------------
+--------------------------------------
+| Number of processes 1 |
+--------------------------------------
+-------------------------------
+|       Matrix size 128     |
+-------------------------------
+Matrix size = 128 communication = 0
+Communication time: 0.000495
+Operations time: 0.003608
+Total time: 0.004103
+-------------------------------
+|       Matrix size 256     |
+-------------------------------
+Matrix size = 256 communication = 0
+Communication time: 0.000724
+Operations time: 0.012401
+Total time: 0.013125
+-------------------------------
+|       Matrix size 512     |
+-------------------------------
+Matrix size = 512 communication = 0
+Communication time: 0.002874
+Operations time: 0.047258
+Total time: 0.050132
+-------------------------------
+|       Matrix size 1024     |
+-------------------------------
+Matrix size = 1024 communication = 0
+Communication time: 0.011363
+Operations time: 0.202318
+Total time: 0.213682
+-------------------------------
+|       Matrix size 2048     |
+-------------------------------
+Matrix size = 2048 communication = 0
+Communication time: 0.053864
+Operations time: 0.772384
+Total time: 0.826248
+-------------------------------
+|       Matrix size 4096     |
+-------------------------------
+Matrix size = 4096 communication = 0
+Communication time: 0.181557
+Operations time: 2.964990
+Total time: 3.146547
+-------------------------------
+|       Matrix size 8192     |
+-------------------------------
+Matrix size = 8192 communication = 0
+Communication time: 0.779142
+Operations time: 10.156587
+Total time: 10.935729
+--------------------------------------
+| Number of processes 2 |
+--------------------------------------
+-------------------------------
+|       Matrix size 128     |
+-------------------------------
+Matrix size = 128 communication = 0
+Communication time: 0.000433
+Operations time: 0.001194
+Total time: 0.001626
+-------------------------------
+|       Matrix size 256     |
+-------------------------------
+Matrix size = 256 communication = 0
+Communication time: 0.001016
+Operations time: 0.005806
+Total time: 0.006822
+-------------------------------
+|       Matrix size 512     |
+-------------------------------
+Matrix size = 512 communication = 0
+Communication time: 0.003243
+Operations time: 0.024155
+Total time: 0.027398
+-------------------------------
+|       Matrix size 1024     |
+-------------------------------
+Matrix size = 1024 communication = 0
+Communication time: 0.014934
+Operations time: 0.096253
+Total time: 0.111187
+-------------------------------
+|       Matrix size 2048     |
+-------------------------------
+Matrix size = 2048 communication = 0
+Communication time: 0.105856
+Operations time: 0.386718
+Total time: 0.492573
+-------------------------------
+|       Matrix size 4096     |
+-------------------------------
+Matrix size = 4096 communication = 0
+Communication time: 0.209082
+Operations time: 1.404938
+Total time: 1.614019
+-------------------------------
+|       Matrix size 8192     |
+-------------------------------
+Matrix size = 8192 communication = 0
+-------------------------------
+|  Execution mode 0  |
+-------------------------------
+--------------------------------------
+| Number of processes 2 |
+--------------------------------------
+-------------------------------
+|       Matrix size 128     |
+-------------------------------
+Matrix size = 128 communication = 0
+Communication time: 0.000596
+Operations time: 0.002665
+Total time: 0.003261
+-------------------------------
+|       Matrix size 256     |
+-------------------------------
+Matrix size = 256 communication = 0
+Communication time: 0.002119
+Operations time: 0.013144
+Total time: 0.015264
+-------------------------------
+|       Matrix size 512     |
+-------------------------------
+Matrix size = 512 communication = 0
+Communication time: 0.007127
+Operations time: 0.052856
+Total time: 0.059984
+-------------------------------
+|       Matrix size 1024     |
+-------------------------------
+Matrix size = 1024 communication = 0
+Communication time: 0.026813
+Operations time: 0.211652
+Total time: 0.238465
+-------------------------------
+|       Matrix size 2048     |
+-------------------------------
+Matrix size = 2048 communication = 0
+Communication time: 0.165481
+Operations time: 0.842875
+Total time: 1.008356
+-------------------------------
+|       Matrix size 4096     |
+-------------------------------
+Matrix size = 4096 communication = 0
+Communication time: 0.415884
+Operations time: 3.128750
+Total time: 3.544634
+-------------------------------
+|       Matrix size 8192     |
+-------------------------------
+Matrix size = 8192 communication = 0
+Communication time: 2.758049
+Operations time: 12.548518
+Total time: 15.306566
+--------------------------------------
+| Number of processes 4 |
+--------------------------------------
+-------------------------------
+|       Matrix size 128     |
+-------------------------------
+Matrix size = 128 communication = 0
+Communication time: 0.015317
+Operations time: 0.001285
+Total time: 0.016602
+-------------------------------
+|       Matrix size 256     |
+-------------------------------
+Matrix size = 256 communication = 0
+Communication time: 0.020643
+Operations time: 0.014534
+Total time: 0.035178
+-------------------------------
+|       Matrix size 512     |
+-------------------------------
+Matrix size = 512 communication = 0
+Communication time: 0.103106
+Operations time: 0.049861
+Total time: 0.152967
+-------------------------------
+|       Matrix size 1024     |
+-------------------------------
+Matrix size = 1024 communication = 0
+Communication time: 0.263113
+Operations time: 0.201372
+Total time: 0.464485
+-------------------------------
+|       Matrix size 2048     |
+-------------------------------
+Matrix size = 2048 communication = 0
+Communication time: 0.728659
+Operations time: 0.848443
+Total time: 1.577102
+-------------------------------
+|       Matrix size 4096     |
+-------------------------------
+Matrix size = 4096 communication = 0
+Communication time: 3.258126
+Operations time: 3.125870
+Total time: 6.383997
+-------------------------------
+|       Matrix size 8192     |
+-------------------------------
+Matrix size = 8192 communication = 0
+Communication time: 89.190193
+Operations time: 103.754440
+Total time: 192.944641
+--------------------------------------
+| Number of processes 8 |
+--------------------------------------
+-------------------------------
+|       Matrix size 128     |
+-------------------------------
+Matrix size = 128 communication = 0
+Communication time: 1.500869
+Operations time: 0.222972
+Total time: 1.723841
+-------------------------------
+|       Matrix size 256     |
+-------------------------------
+Matrix size = 256 communication = 0
+Communication time: 0.514838
+Operations time: 0.241235
+Total time: 0.756073
+-------------------------------
+|       Matrix size 512     |
+-------------------------------
+Matrix size = 512 communication = 0
+Communication time: 12.233670
+Operations time: 0.012664
+Total time: 12.246334
+-------------------------------
+|       Matrix size 1024     |
+-------------------------------
+Matrix size = 1024 communication = 0
+Communication time: 31.450588
+Operations time: 1.020740
+Total time: 32.471329
+-------------------------------
+|       Matrix size 2048     |
+-------------------------------
+Matrix size = 2048 communication = 0
+Communication time: 78.484589
+Operations time: 4.511731
+Total time: 82.996323
+-------------------------------
+|       Matrix size 4096     |
+-------------------------------
+Matrix size = 4096 communication = 0
+Communication time: 182.471985
+Operations time: 24.263239
+Total time: 206.735229
+-------------------------------
+|       Matrix size 8192     |
+-------------------------------
+Matrix size = 8192 communication = 0
+Communication time: 870.742615
+Operations time: 93.997040
+Total time: 964.739624
+--------------------------------------
+| Number of processes 16 |
+--------------------------------------
+-------------------------------
+|       Matrix size 128     |
+-------------------------------
+Matrix size = 128 communication = 0
+Communication time: 2.494437
+Operations time: 0.000276
+Total time: 2.494712
+-------------------------------
+|       Matrix size 256     |
+-------------------------------
+Matrix size = 256 communication = 0
+Communication time: 2.521614
+Operations time: 0.225480
+Total time: 2.747094
+-------------------------------
+|       Matrix size 512     |
+-------------------------------
+Matrix size = 512 communication = 0
+Communication time: 16.985868
+Operations time: 0.010181
+Total time: 16.996050
+-------------------------------
+|       Matrix size 1024     |
+-------------------------------
+Matrix size = 1024 communication = 0
+Communication time: 83.466995
+Operations time: 0.025293
+Total time: 83.492287
+-------------------------------
+|       Matrix size 2048     |
+-------------------------------
+Matrix size = 2048 communication = 0
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+-------------------------------
+|       Matrix size 4096     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+-------------------------------
+|       Matrix size 8192     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+--------------------------------------
+| Number of processes 64 |
+--------------------------------------
+-------------------------------
+|       Matrix size 128     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+Ctrl-C caught... cleaning up processes
+-------------------------------
+|       Matrix size 256     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+Ctrl-C caught... cleaning up processes
+-------------------------------
+|       Matrix size 512     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+-------------------------------
+|       Matrix size 1024     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+Ctrl-C caught... cleaning up processes
+-------------------------------
+|       Matrix size 2048     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+-------------------------------
+|       Matrix size 4096     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+-------------------------------
+|       Matrix size 8192     |
+-------------------------------
+[mpiexec@env-d-ui1] Sending Ctrl-C to processes as requested
+[mpiexec@env-d-ui1] Press Ctrl-C again to force abort
+Ctrl-C caught... cleaning up processes
+Ctrl-C caught... cleaning up processes
